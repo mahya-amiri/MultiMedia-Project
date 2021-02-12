@@ -5,9 +5,8 @@ def compress(inputString):
 	"""compression algorithm:
 		- The input is a string, and the output is a compressed string.
 		- A valid input consists of zero or more upper case english letters A-Z.
-		- Any run of two or more of the same character converted to two of that 
-		  character plus a number indicating how many repeated runs were compressed. 
-		- Only one digit used at a time
+		- Any run of two or more of the same character converted to two of that character plus a number indicating how many repeated runs were compressed. 
+		- Only one digit used at a time.
 		Examples:
 		    A --> A
 		    AA --> AA0
