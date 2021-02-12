@@ -1,7 +1,5 @@
 # MultiMedia-Project
-MultiMedia Projects
-
-It's about Multi Media Lesson in university.
+It's about Multi Media in university.
 
 Don't forget about Importing Libraries. You can help from Searching in Google!
 
