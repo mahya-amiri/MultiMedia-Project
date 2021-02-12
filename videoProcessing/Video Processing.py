@@ -1,4 +1,3 @@
-
 # Video Processing with GUI
 
 import os
