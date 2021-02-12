@@ -26,7 +26,7 @@ if cho == 2 :
 if cho == 1 :
     colors = colorgram.extract('picture.jpg', 4)
 
-    # colorgram.extract returns Color objects, which let you access
+    # colorgram.extract returns Color objects, which let you access..
     # RGB, HSL, and what proportion of the image was that color.
     first_color = colors[0]
     rgb = first_color.rgb # e.g. (255, 151, 210)
